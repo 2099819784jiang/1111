@@ -23,7 +23,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainVie
 
 //这是一个MVP的抽取
 //    此处没有onCreate方法 从BaseActivity继承过来了
-
+//更新——————————————————————
     @Override
     protected void initListener() {
         Log.i("1111", "initListener--------------------:");
