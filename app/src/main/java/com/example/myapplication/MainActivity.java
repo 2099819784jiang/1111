@@ -21,7 +21,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainVie
     @BindView(R.id.rec_main)
     RecyclerView mRecMain;
 
-
+//这是一个MVP的抽取
 //    此处没有onCreate方法 从BaseActivity继承过来了
 
     @Override
